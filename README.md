@@ -10,9 +10,9 @@ O objetivo é praticar:
 
 Estruturação de páginas HTML
 Inserção de imagens
-Uso de links clicáveis
 Organização visual com CSS
 Criação de páginas de entretenimento
-🛠️ Tecnologias Utilizadas
+
+Tecnologias Utilizadas
 HTML5
 CSS3
